@@ -1,0 +1,10 @@
+Godaddy API 
+Key
+3mM44UbCEmWE6L_STNndtN6ekZBCvGNbHfS6t
+
+Secret
+8dWb4Fi8tt79pLz4KCDApv
+
+
+help url: 
+https://domainnamewire.com/2019/05/30/tutorial-how-to-create-a-domain-name-suggestion-tool/
